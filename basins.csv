@@ -1,0 +1,20 @@
+basin,baseline_2035_kt_ch4,gross_methane_2035_kt,leakage_rate_2035,cut_cheapest_path_kt,rate_after_cheapest_path,cut_wec_as_written_kt
+Permian,3951.6,166161.1,0.02378,2777.1,0.00707,881.3
+Appalachian,1775.5,347389.2,0.00511,1261.7,0.00148,78.1
+Haynesville-Bossier,906.2,101105.5,0.00896,622.3,0.00281,118.3
+Eagle Ford / Gulf Coast,776.2,40973.3,0.01894,523.3,0.00617,38.6
+Anadarko,553.5,39672.9,0.01395,311.8,0.00609,39.9
+Bakken (Williston),188.3,8981.5,0.02097,110.5,0.00866,23.0
+Denver-Julesburg,257.5,20354.2,0.01265,163.4,0.00462,39.3
+Greater Green River,319.2,6139.4,0.05199,231.3,0.01432,20.1
+Barnett (Fort Worth),211.8,13329.1,0.01589,152.3,0.00446,40.3
+Arkoma-Fayetteville,186.8,6114.2,0.03055,131.1,0.00911,24.8
+Piceance,241.0,3053.6,0.07892,172.2,0.02253,48.7
+Uinta,182.9,2375.8,0.07698,131.4,0.02168,42.4
+San Juan,100.8,4377.7,0.02303,40.2,0.01384,8.8
+San Joaquin,111.8,737.2,0.15165,37.9,0.10024,4.2
+Powder River,69.2,1273.4,0.05434,40.8,0.0223,13.9
+Other basins with GHGRP reporters,1073.8,19504.1,0.05506,735.7,0.01733,79.8
+Onshore areas without GHGRP reporters,776.9,28700.7,0.02707,455.7,0.01119,0.5
+Transmission & storage outside basins,956.3,0.0,,671.3,,16.6
+Alaska + federal offshore,196.9,17468.8,0.01127,127.7,0.00396,31.4

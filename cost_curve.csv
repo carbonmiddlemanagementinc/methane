@@ -1,0 +1,448 @@
+measure_id,measure,category,basin,tonnes_cut_kt_ch4,net_cost_usd2025_per_t,net_cost_musd2025_per_yr
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Greater Green River,13.269,-161.8,-2.1473
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Piceance,4.454,-161.8,-0.7207
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Uinta,4.22,-154.2,-0.6507
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Greater Green River,10.405,-145.2,-1.5104
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Piceance,9.212,-145.2,-1.3372
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Uinta,7.285,-135.6,-0.9881
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Denver-Julesburg,12.801,-131.5,-1.6835
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Greater Green River,21.096,-131.4,-2.771
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Piceance,16.628,-131.4,-2.1842
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Uinta,15.236,-120.3,-1.8323
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Permian,53.896,-119.0,-6.4135
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Denver-Julesburg,12.969,-107.3,-1.3912
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Permian,143.059,-91.2,-13.0408
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Haynesville-Bossier,29.152,-89.7,-2.6137
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Denver-Julesburg,20.34,-87.2,-1.7737
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Arkoma-Fayetteville,13.989,-75.4,-1.0547
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,San Joaquin,1.099,-70.0,-0.0769
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Permian,261.114,-68.1,-17.7813
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Greater Green River,3.849,-53.8,-0.2069
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Piceance,3.034,-53.8,-0.1631
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Haynesville-Bossier,34.232,-49.4,-1.6915
+W1a,Aerial survey every 2 months + repair (well sites),W1,Alaska + federal offshore,14.618,-48.0,-0.7016
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Uinta,2.78,-44.2,-0.123
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Powder River,0.841,-39.8,-0.0335
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Arkoma-Fayetteville,5.198,-38.4,-0.1994
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,San Joaquin,4.168,-32.7,-0.1363
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Transmission & storage outside basins,240.627,-28.7,-6.8981
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Bakken (Williston),5.638,-25.6,-0.1445
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Alaska + federal offshore,26.801,-22.9,-0.6133
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Eagle Ford / Gulf Coast,61.574,-19.9,-1.2249
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Haynesville-Bossier,55.336,-16.1,-0.89
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Denver-Julesburg,3.711,-15.9,-0.0589
+M1b,Continuous monitoring at compressor stations and plants,M1,Greater Green River,12.926,-12.6,-0.1625
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Greater Green River,0.861,-11.8,-0.0102
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Piceance,0.679,-11.8,-0.008
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Arkoma-Fayetteville,10.234,-7.7,-0.0789
+M1b,Continuous monitoring at compressor stations and plants,M1,Piceance,9.762,-4.4,-0.043
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Greater Green River,38.779,-2.8,-0.1067
+W2a,Zero-emitting pneumatic controllers and pumps,W2,San Joaquin,9.396,-1.8,-0.0173
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Piceance,29.285,-1.3,-0.0384
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Appalachian,133.914,-0.0,-0.0023
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Permian,47.642,1.0,0.0471
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Greater Green River,4.09,5.1,0.0207
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Piceance,1.373,5.1,0.007
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Powder River,2.523,7.3,0.0185
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Permian,632.448,8.3,5.2397
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Uinta,0.622,12.9,0.008
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Uinta,1.3,31.7,0.0413
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Bakken (Williston),6.668,35.3,0.2353
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Eagle Ford / Gulf Coast,25.471,37.8,0.9626
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Appalachian,43.845,39.1,1.7157
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Uinta,12.092,45.3,0.5474
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Powder River,5.319,46.4,0.2467
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Barnett (Fort Worth),1.07,46.7,0.05
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Haynesville-Bossier,110.105,50.1,5.5145
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Haynesville-Bossier,10.096,50.8,0.5133
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Arkoma-Fayetteville,1.867,51.0,0.0953
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,San Joaquin,1.714,54.9,0.0941
+M1b,Continuous monitoring at compressor stations and plants,M1,Permian,210.816,57.0,12.0113
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Powder River,8.408,57.8,0.486
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Other basins with GHGRP reporters,28.712,58.2,1.6717
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Transmission & storage outside basins,258.199,61.8,15.9685
+W1a,Aerial survey every 2 months + repair (well sites),W1,Greater Green River,23.698,66.3,1.57
+W1a,Aerial survey every 2 months + repair (well sites),W1,Barnett (Fort Worth),26.422,66.5,1.7563
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Appalachian,74.215,71.6,5.3106
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Bakken (Williston),22.876,72.3,1.6534
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Arkoma-Fayetteville,22.699,72.3,1.6404
+W3a,Quarterly OGI leak detection and repair,W3,Greater Green River,4.845,75.2,0.3642
+W3a,Quarterly OGI leak detection and repair,W3,Piceance,3.819,75.2,0.2871
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Greater Green River,12.712,79.6,1.0118
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Piceance,10.508,79.6,0.8364
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Onshore areas without GHGRP reporters,94.397,79.8,7.5328
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Onshore areas without GHGRP reporters,29.815,81.4,2.4255
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,San Joaquin,8.838,82.1,0.7255
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Eagle Ford / Gulf Coast,31.941,85.6,2.733
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Bakken (Williston),12.726,85.7,1.091
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Denver-Julesburg,0.83,86.7,0.072
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Alaska + federal offshore,23.921,98.3,2.3525
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Powder River,0.97,98.7,0.0958
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Appalachian,13.541,101.8,1.3782
+W1a,Aerial survey every 2 months + repair (well sites),W1,Permian,258.729,106.1,27.4634
+W3a,Quarterly OGI leak detection and repair,W3,Uinta,3.499,109.8,0.3844
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Denver-Julesburg,3.945,111.2,0.4388
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Barnett (Fort Worth),6.74,114.2,0.77
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Uinta,9.07,114.8,1.041
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,Anadarko,19.297,124.1,2.3946
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Other basins with GHGRP reporters,41.839,128.7,5.3826
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Permian,10.661,131.6,1.4027
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Onshore areas without GHGRP reporters,62.651,131.9,8.2627
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Eagle Ford / Gulf Coast,94.311,135.7,12.8018
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Eagle Ford / Gulf Coast,5.828,138.0,0.8045
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Denver-Julesburg,15.266,140.1,2.1383
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Bakken (Williston),2.322,143.0,0.332
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Other basins with GHGRP reporters,130.463,144.8,18.886
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Barnett (Fort Worth),15.785,146.2,2.3083
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Greater Green River,37.961,148.6,5.6413
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Permian,16.61,159.8,2.6541
+W1a,Aerial survey every 2 months + repair (well sites),W1,Haynesville-Bossier,67.286,161.5,10.8657
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Barnett (Fort Worth),13.717,170.2,2.3344
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Onshore areas without GHGRP reporters,11.431,170.8,1.9528
+T2a,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",T2,San Juan,1.648,171.5,0.2827
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Permian,443.916,176.5,78.3674
+W1b,Continuous monitors at central facilities (25% of sites),W1,Alaska + federal offshore,4.873,184.4,0.8988
+W1a,Aerial survey every 2 months + repair (well sites),W1,Uinta,14.803,185.2,2.741
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Anadarko,67.247,185.6,12.4831
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,San Juan,12.253,187.0,2.2911
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Other basins with GHGRP reporters,66.6,187.0,12.4529
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Alaska + federal offshore,7.243,201.6,1.4603
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Barnett (Fort Worth),2.503,203.6,0.5096
+W1a,Aerial survey every 2 months + repair (well sites),W1,Piceance,17.897,208.6,3.734
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,Anadarko,20.234,211.0,4.2691
+W3a,Quarterly OGI leak detection and repair,W3,Denver-Julesburg,4.671,213.2,0.996
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Other basins with GHGRP reporters,12.152,218.0,2.6496
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Denver-Julesburg,13.675,219.6,3.0035
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Barnett (Fort Worth),32.943,240.5,7.9236
+L1b,Plug highest-emitting low-producing sites,L1,Alaska + federal offshore,19.654,254.3,4.9984
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Arkoma-Fayetteville,0.418,257.8,0.1077
+M1b,Continuous monitoring at compressor stations and plants,M1,Uinta,4.031,259.6,1.0462
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,San Joaquin,0.384,265.5,0.1018
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Uinta,25.682,269.3,6.9159
+G2a,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",G2,San Juan,3.808,271.5,1.0338
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Haynesville-Bossier,2.259,272.5,0.6157
+M1a,"Monthly aerial survey + repair at stations, plants, pipelines",M1,Appalachian,86.927,273.8,23.8004
+W3a,Quarterly OGI leak detection and repair,W3,Permian,59.969,276.9,16.6052
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Alaska + federal offshore,16.549,276.9,4.5829
+W2a,Zero-emitting pneumatic controllers and pumps,W2,Anadarko,34.278,283.0,9.6993
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Permian,164.234,284.3,46.69
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Arkoma-Fayetteville,4.311,295.3,1.2733
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Anadarko,6.254,300.4,1.8787
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Haynesville-Bossier,103.418,301.5,31.1826
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,Alaska + federal offshore,3.02,302.8,0.9143
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,San Joaquin,0.339,303.2,0.1027
+W1a,Aerial survey every 2 months + repair (well sites),W1,Eagle Ford / Gulf Coast,57.634,306.9,17.6877
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Haynesville-Bossier,8.985,313.3,2.8149
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Piceance,29.335,326.2,9.5702
+M1b,Continuous monitoring at compressor stations and plants,M1,Powder River,2.803,330.6,0.9265
+W1a,Aerial survey every 2 months + repair (well sites),W1,Other basins with GHGRP reporters,79.727,339.3,27.0543
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Appalachian,3.03,352.3,1.0676
+W2a,Zero-emitting pneumatic controllers and pumps,W2,San Juan,7.197,354.3,2.5502
+W4a,"Tank vapor recovery, vent-to-flare, flare auto-igniters",W4,San Juan,1.313,362.9,0.4766
+M1b,Continuous monitoring at compressor stations and plants,M1,Haynesville-Bossier,36.702,369.5,13.5604
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Powder River,0.217,384.6,0.0835
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Appalachian,41.272,392.0,16.1784
+M1b,Continuous monitoring at compressor stations and plants,M1,Arkoma-Fayetteville,7.566,393.9,2.9802
+W1a,Aerial survey every 2 months + repair (well sites),W1,Arkoma-Fayetteville,13.871,412.1,5.717
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Powder River,0.259,432.4,0.1121
+M1b,Continuous monitoring at compressor stations and plants,M1,San Joaquin,2.946,433.0,1.2756
+W1b,Continuous monitors at central facilities (25% of sites),W1,Barnett (Fort Worth),8.807,435.8,3.8386
+M1b,Continuous monitoring at compressor stations and plants,M1,Onshore areas without GHGRP reporters,31.466,437.3,13.761
+W1a,Aerial survey every 2 months + repair (well sites),W1,Appalachian,169.763,440.0,74.6877
+W1b,Continuous monitors at central facilities (25% of sites),W1,Greater Green River,7.899,441.3,3.4861
+W3a,Quarterly OGI leak detection and repair,W3,Arkoma-Fayetteville,2.35,451.1,1.0601
+W3a,Quarterly OGI leak detection and repair,W3,San Joaquin,2.158,460.0,0.9926
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Arkoma-Fayetteville,6.239,460.9,2.8756
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Denver-Julesburg,28.805,465.3,13.4032
+L1b,Plug highest-emitting low-producing sites,L1,Greater Green River,27.838,469.7,13.0746
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,San Joaquin,5.437,469.9,2.5547
+W3a,Quarterly OGI leak detection and repair,W3,Haynesville-Bossier,12.709,482.6,6.133
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Haynesville-Bossier,36.695,493.3,18.1005
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Eagle Ford / Gulf Coast,1.304,499.3,0.6511
+L1b,Plug highest-emitting low-producing sites,L1,Permian,325.539,511.4,166.4715
+M1b,Continuous monitoring at compressor stations and plants,M1,Transmission & storage outside basins,86.066,518.6,44.6315
+W1a,Aerial survey every 2 months + repair (well sites),W1,Denver-Julesburg,12.453,520.5,6.4817
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Bakken (Williston),0.52,522.6,0.2715
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Other basins with GHGRP reporters,123.527,534.0,65.9675
+W1b,Continuous monitors at central facilities (25% of sites),W1,Permian,86.243,543.6,46.8775
+W3a,Quarterly OGI leak detection and repair,W3,Appalachian,17.045,556.7,9.4883
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Eagle Ford / Gulf Coast,18.977,557.7,10.5836
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Appalachian,297.513,562.2,167.2654
+M1b,Continuous monitoring at compressor stations and plants,M1,Bakken (Williston),7.625,564.8,4.3071
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Appalachian,54.978,567.1,31.1758
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Onshore areas without GHGRP reporters,2.558,569.4,1.4566
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Transmission & storage outside basins,74.16,582.2,43.1798
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Bakken (Williston),1.738,584.3,1.0153
+W1a,Aerial survey every 2 months + repair (well sites),W1,Anadarko,41.095,590.9,24.2832
+L1b,Plug highest-emitting low-producing sites,L1,Barnett (Fort Worth),24.158,594.3,14.3563
+W6a,"Engine and heater tuning, slip monitoring",W6,Permian,10.161,600.0,6.0968
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Permian,49.294,600.0,29.5764
+T3a,Engine tuning and slip monitoring (T&S),T3,Permian,2.739,600.0,1.6434
+W6a,"Engine and heater tuning, slip monitoring",W6,Appalachian,2.888,600.0,1.7329
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Appalachian,12.258,600.0,7.3548
+T3a,Engine tuning and slip monitoring (T&S),T3,Appalachian,6.805,600.0,4.0833
+W6a,"Engine and heater tuning, slip monitoring",W6,Haynesville-Bossier,2.153,600.0,1.2921
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Haynesville-Bossier,13.393,600.0,8.0357
+T3a,Engine tuning and slip monitoring (T&S),T3,Haynesville-Bossier,1.482,600.0,0.8889
+W6a,"Engine and heater tuning, slip monitoring",W6,Eagle Ford / Gulf Coast,1.243,600.0,0.7458
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Eagle Ford / Gulf Coast,12.03,600.0,7.2179
+T3a,Engine tuning and slip monitoring (T&S),T3,Eagle Ford / Gulf Coast,3.129,600.0,1.8775
+W6a,"Engine and heater tuning, slip monitoring",W6,Anadarko,1.334,600.0,0.8004
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Anadarko,7.565,600.0,4.5391
+T3a,Engine tuning and slip monitoring (T&S),T3,Anadarko,0.981,600.0,0.5884
+W6a,"Engine and heater tuning, slip monitoring",W6,Bakken (Williston),0.495,600.0,0.2971
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Bakken (Williston),2.173,600.0,1.3039
+T3a,Engine tuning and slip monitoring (T&S),T3,Bakken (Williston),0.287,600.0,0.1719
+W6a,"Engine and heater tuning, slip monitoring",W6,Denver-Julesburg,0.792,600.0,0.4749
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Denver-Julesburg,5.213,600.0,3.128
+T3a,Engine tuning and slip monitoring (T&S),T3,Denver-Julesburg,0.651,600.0,0.3903
+W6a,"Engine and heater tuning, slip monitoring",W6,Greater Green River,0.821,600.0,0.4926
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Greater Green River,3.115,600.0,1.8688
+T3a,Engine tuning and slip monitoring (T&S),T3,Greater Green River,0.674,600.0,0.4046
+W6a,"Engine and heater tuning, slip monitoring",W6,Barnett (Fort Worth),0.534,600.0,0.3203
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Barnett (Fort Worth),2.006,600.0,1.2037
+T3a,Engine tuning and slip monitoring (T&S),T3,Barnett (Fort Worth),0.054,600.0,0.0326
+W6a,"Engine and heater tuning, slip monitoring",W6,Arkoma-Fayetteville,0.398,600.0,0.2389
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Arkoma-Fayetteville,1.624,600.0,0.9744
+T3a,Engine tuning and slip monitoring (T&S),T3,Arkoma-Fayetteville,0.711,600.0,0.4265
+W6a,"Engine and heater tuning, slip monitoring",W6,Piceance,0.647,600.0,0.3883
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Piceance,3.216,600.0,1.9294
+T3a,Engine tuning and slip monitoring (T&S),T3,Piceance,0.226,600.0,0.1358
+W6a,"Engine and heater tuning, slip monitoring",W6,Uinta,0.593,600.0,0.3557
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Uinta,2.077,600.0,1.246
+T3a,Engine tuning and slip monitoring (T&S),T3,Uinta,0.214,600.0,0.1287
+W6a,"Engine and heater tuning, slip monitoring",W6,San Juan,0.28,600.0,0.168
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,San Juan,1.257,600.0,0.754
+T3a,Engine tuning and slip monitoring (T&S),T3,San Juan,0.084,600.0,0.0503
+W6a,"Engine and heater tuning, slip monitoring",W6,San Joaquin,0.366,600.0,0.2194
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,San Joaquin,1.037,600.0,0.622
+T3a,Engine tuning and slip monitoring (T&S),T3,San Joaquin,0.056,600.0,0.0335
+W6a,"Engine and heater tuning, slip monitoring",W6,Powder River,0.207,600.0,0.1242
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Powder River,0.71,600.0,0.4261
+T3a,Engine tuning and slip monitoring (T&S),T3,Powder River,0.043,600.0,0.0256
+W6a,"Engine and heater tuning, slip monitoring",W6,Other basins with GHGRP reporters,2.592,600.0,1.5551
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Other basins with GHGRP reporters,16.6,600.0,9.9601
+T3a,Engine tuning and slip monitoring (T&S),T3,Other basins with GHGRP reporters,1.459,600.0,0.8755
+W6a,"Engine and heater tuning, slip monitoring",W6,Onshore areas without GHGRP reporters,2.438,600.0,1.4629
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Onshore areas without GHGRP reporters,8.432,600.0,5.0594
+T3a,Engine tuning and slip monitoring (T&S),T3,Transmission & storage outside basins,12.229,600.0,7.3371
+W6a,"Engine and heater tuning, slip monitoring",W6,Alaska + federal offshore,0.644,600.0,0.3864
+G3a,"Engine tuning and slip monitoring (G&B, processing)",G3,Alaska + federal offshore,1.751,600.0,1.0506
+W1a,Aerial survey every 2 months + repair (well sites),W1,Bakken (Williston),13.98,623.3,8.7134
+W3a,Quarterly OGI leak detection and repair,W3,Powder River,1.221,630.8,0.7705
+L1b,Plug highest-emitting low-producing sites,L1,Uinta,18.833,640.7,12.0666
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Powder River,3.157,643.3,2.0308
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Eagle Ford / Gulf Coast,73.791,644.2,47.5394
+M1b,Continuous monitoring at compressor stations and plants,M1,Alaska + federal offshore,7.974,651.5,5.1949
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Barnett (Fort Worth),0.56,654.6,0.3666
+W1a,Aerial survey every 2 months + repair (well sites),W1,Onshore areas without GHGRP reporters,57.687,660.9,38.1264
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Arkoma-Fayetteville,20.196,686.3,13.8618
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Other basins with GHGRP reporters,2.719,692.1,1.8819
+W1b,Continuous monitors at central facilities (25% of sites),W1,Haynesville-Bossier,22.429,706.6,15.849
+L1b,Plug highest-emitting low-producing sites,L1,Haynesville-Bossier,75.84,711.5,53.958
+L1b,Plug highest-emitting low-producing sites,L1,Piceance,21.512,721.4,15.5191
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Barnett (Fort Worth),0.33,723.0,0.2385
+W1b,Continuous monitors at central facilities (25% of sites),W1,Uinta,4.934,739.3,3.648
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Other basins with GHGRP reporters,8.849,763.4,6.7556
+T4b,Continuous monitoring on remaining T&S leaks,T4,Greater Green River,1.091,771.5,0.8414
+T4b,Continuous monitoring on remaining T&S leaks,T4,Piceance,0.366,771.5,0.2824
+M1b,Continuous monitoring at compressor stations and plants,M1,Denver-Julesburg,5.089,796.8,4.0544
+W1b,Continuous monitors at central facilities (25% of sites),W1,Piceance,5.966,798.1,4.7613
+W1a,Aerial survey every 2 months + repair (well sites),W1,Powder River,5.138,798.2,4.1011
+W3a,Quarterly OGI leak detection and repair,W3,Eagle Ford / Gulf Coast,7.336,800.3,5.8711
+M1b,Continuous monitoring at compressor stations and plants,M1,Other basins with GHGRP reporters,43.488,804.7,34.9934
+M1b,Continuous monitoring at compressor stations and plants,M1,Barnett (Fort Worth),5.262,813.0,4.2778
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Eagle Ford / Gulf Coast,23.94,815.7,19.5265
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Onshore areas without GHGRP reporters,103.218,821.6,84.8032
+W3a,Quarterly OGI leak detection and repair,W3,Bakken (Williston),2.923,840.5,2.4565
+M1b,Continuous monitoring at compressor stations and plants,M1,Eagle Ford / Gulf Coast,31.437,854.9,26.8743
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Bakken (Williston),7.857,856.7,6.731
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Anadarko,63.624,880.9,56.048
+T4b,Continuous monitoring on remaining T&S leaks,T4,Uinta,0.347,885.7,0.3072
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Bakken (Williston),22.662,887.4,20.1107
+W3a,Quarterly OGI leak detection and repair,W3,Onshore areas without GHGRP reporters,14.389,887.9,12.7756
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Onshore areas without GHGRP reporters,37.227,904.1,33.6568
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Anadarko,1.4,906.2,1.2682
+L1b,Plug highest-emitting low-producing sites,L1,Denver-Julesburg,21.123,918.5,19.402
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,Alaska + federal offshore,0.676,928.9,0.6277
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Greater Green River,1.938,971.5,1.8828
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Piceance,1.528,971.5,1.4841
+L1b,Plug highest-emitting low-producing sites,L1,Appalachian,218.176,974.3,212.5784
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,Anadarko,5.947,994.2,5.9127
+W3a,Quarterly OGI leak detection and repair,W3,Barnett (Fort Worth),3.15,1007.2,3.1729
+L1b,Plug highest-emitting low-producing sites,L1,Other basins with GHGRP reporters,90.587,1010.2,91.513
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,Powder River,8.943,1018.6,9.1089
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Barnett (Fort Worth),8.253,1025.1,8.4605
+M1b,Continuous monitoring at compressor stations and plants,M1,Anadarko,22.416,1036.3,23.2287
+W3a,Quarterly OGI leak detection and repair,W3,Other basins with GHGRP reporters,15.296,1059.7,16.2085
+M1b,Continuous monitoring at compressor stations and plants,M1,San Juan,4.084,1062.6,4.34
+W1b,Continuous monitors at central facilities (25% of sites),W1,Eagle Ford / Gulf Coast,19.211,1071.0,20.5761
+W5a,"Plunger lifts, unloading automation, blowdown/completion controls",W5,San Juan,0.294,1071.5,0.3149
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Other basins with GHGRP reporters,44.473,1078.4,47.9594
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Greater Green River,3.39,1104.8,3.7453
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Piceance,2.802,1104.8,3.0959
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Uinta,1.4,1108.6,1.5516
+W1b,Continuous monitors at central facilities (25% of sites),W1,Other basins with GHGRP reporters,26.576,1119.6,29.7553
+T4a,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",T4,San Juan,0.508,1172.8,0.5958
+L1b,Plug highest-emitting low-producing sites,L1,Eagle Ford / Gulf Coast,54.114,1197.2,64.7839
+T4b,Continuous monitoring on remaining T&S leaks,T4,Denver-Julesburg,1.052,1226.1,1.2899
+L1b,Plug highest-emitting low-producing sites,L1,Arkoma-Fayetteville,14.811,1226.1,18.1593
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Uinta,2.419,1257.1,3.0405
+M1b,Continuous monitoring at compressor stations and plants,M1,Appalachian,28.976,1286.2,37.2689
+W1b,Continuous monitors at central facilities (25% of sites),W1,Appalachian,56.588,1291.2,73.0669
+W1b,Continuous monitors at central facilities (25% of sites),W1,Arkoma-Fayetteville,4.624,1302.1,6.0206
+W1a,Aerial survey every 2 months + repair (well sites),W1,San Juan,7.488,1305.0,9.7719
+W3a,Quarterly OGI leak detection and repair,W3,Anadarko,7.873,1359.7,10.7044
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Anadarko,22.262,1382.8,30.7837
+W3a,Quarterly OGI leak detection and repair,W3,Alaska + federal offshore,3.801,1403.4,5.3341
+L1b,Plug highest-emitting low-producing sites,L1,Onshore areas without GHGRP reporters,75.693,1418.0,107.3331
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,Alaska + federal offshore,9.528,1427.5,13.6017
+T4b,Continuous monitoring on remaining T&S leaks,T4,Permian,4.429,1440.1,6.379
+L1b,Plug highest-emitting low-producing sites,L1,Anadarko,46.657,1501.9,70.0727
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Denver-Julesburg,1.869,1517.0,2.8346
+L1b,Plug highest-emitting low-producing sites,L1,Bakken (Williston),16.619,1562.9,25.9746
+W1b,Continuous monitors at central facilities (25% of sites),W1,Denver-Julesburg,4.151,1579.6,6.5571
+W3a,Quarterly OGI leak detection and repair,W3,San Juan,1.653,1593.5,2.6339
+W4b,Control remaining tanks and associated gas,W4,Greater Green River,2.053,1597.2,3.2788
+W4b,Control remaining tanks and associated gas,W4,Piceance,1.618,1597.2,2.5844
+G4a,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",G4,San Juan,4.461,1620.0,7.2275
+W1a,Aerial survey every 2 months + repair (well sites),W1,San Joaquin,9.836,1658.4,16.3129
+L1b,Plug highest-emitting low-producing sites,L1,Powder River,6.558,1702.6,11.1658
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Denver-Julesburg,3.647,1710.9,6.2391
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,San Juan,12.503,1716.5,21.4617
+W1b,Continuous monitors at central facilities (25% of sites),W1,Anadarko,13.698,1750.1,23.9731
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Permian,23.987,1774.2,42.5592
+W4b,Control remaining tanks and associated gas,W4,Uinta,1.483,1797.8,2.6655
+W1b,Continuous monitors at central facilities (25% of sites),W1,Bakken (Williston),4.66,1886.4,8.7904
+W1b,Continuous monitors at central facilities (25% of sites),W1,Onshore areas without GHGRP reporters,19.229,1925.8,37.0308
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Permian,43.796,1997.0,87.4583
+T4b,Continuous monitoring on remaining T&S leaks,T4,Arkoma-Fayetteville,1.15,1997.9,2.297
+T4b,Continuous monitoring on remaining T&S leaks,T4,San Joaquin,0.09,2017.2,0.1822
+T4b,Continuous monitoring on remaining T&S leaks,T4,Haynesville-Bossier,2.396,2163.9,5.1846
+L1a,Quarterly aerial survey + repair at low-producing sites,L1,San Joaquin,16.368,2173.6,35.5781
+T4b,Continuous monitoring on remaining T&S leaks,T4,Appalachian,11.006,2192.3,24.1285
+W1b,Continuous monitors at central facilities (25% of sites),W1,Powder River,1.713,2275.6,3.8972
+W4b,Control remaining tanks and associated gas,W4,Denver-Julesburg,1.979,2395.9,4.7422
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Arkoma-Fayetteville,0.94,2442.2,2.296
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,San Joaquin,0.863,2464.5,2.1272
+T4b,Continuous monitoring on remaining T&S leaks,T4,Powder River,0.069,2601.3,0.1798
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Haynesville-Bossier,5.084,2646.8,13.4552
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Appalachian,6.818,2662.1,18.1501
+L1b,Plug highest-emitting low-producing sites,L1,San Juan,9.169,2691.7,24.6803
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Arkoma-Fayetteville,1.664,2738.4,4.5561
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,San Joaquin,1.45,2762.7,4.0052
+W4b,Control remaining tanks and associated gas,W4,Permian,25.409,2774.0,70.4844
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Haynesville-Bossier,9.785,2968.8,29.0508
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Appalachian,14.661,2975.3,43.6204
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Powder River,0.489,3167.2,1.5475
+T4b,Continuous monitoring on remaining T&S leaks,T4,Eagle Ford / Gulf Coast,5.061,3210.4,16.2462
+L1b,Plug highest-emitting low-producing sites,L1,San Joaquin,12.003,3328.8,39.9574
+T4b,Continuous monitoring on remaining T&S leaks,T4,Bakken (Williston),0.463,3385.4,1.5686
+T4b,Continuous monitoring on remaining T&S leaks,T4,Transmission & storage outside basins,19.776,3387.9,66.9997
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Powder River,0.842,3544.5,2.9837
+W1b,Continuous monitors at central facilities (25% of sites),W1,San Juan,2.496,3545.7,8.8499
+W4b,Control remaining tanks and associated gas,W4,Arkoma-Fayetteville,0.996,3746.9,3.7312
+W4b,Control remaining tanks and associated gas,W4,San Joaquin,0.914,3776.1,3.4524
+T4b,Continuous monitoring on remaining T&S leaks,T4,Barnett (Fort Worth),0.088,3829.2,0.3368
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Eagle Ford / Gulf Coast,2.934,3902.6,11.4512
+T4b,Continuous monitoring on remaining T&S leaks,T4,Other basins with GHGRP reporters,2.36,4002.2,9.4441
+W4b,Control remaining tanks and associated gas,W4,Appalachian,7.222,4017.8,29.0158
+W4b,Control remaining tanks and associated gas,W4,Haynesville-Bossier,5.385,4067.2,21.901
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Bakken (Williston),1.169,4116.4,4.8122
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Onshore areas without GHGRP reporters,5.755,4169.0,23.9949
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Eagle Ford / Gulf Coast,6.384,4364.0,27.8596
+W1b,Continuous monitors at central facilities (25% of sites),W1,San Joaquin,3.279,4420.0,14.4921
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Bakken (Williston),2.095,4603.7,9.6456
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Barnett (Fort Worth),1.26,4639.8,5.8467
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Onshore areas without GHGRP reporters,9.927,4657.1,46.2328
+W4b,Control remaining tanks and associated gas,W4,Powder River,0.518,4812.3,2.4906
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Other basins with GHGRP reporters,6.118,4847.3,29.6572
+T4b,Continuous monitoring on remaining T&S leaks,T4,Anadarko,1.586,4990.2,7.9141
+T3b,Electric-drive compression at T&S stations,T3,Transmission & storage outside basins,62.366,5023.6,313.2988
+G3b,Electrify compression at stations and plants,G3,Bakken (Williston),11.083,5135.6,56.9207
+T3b,Electric-drive compression at T&S stations,T3,Bakken (Williston),1.461,5135.6,7.5042
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Barnett (Fort Worth),2.201,5180.1,11.401
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Other basins with GHGRP reporters,11.86,5410.8,64.1694
+G3b,Electrify compression at stations and plants,G3,Alaska + federal offshore,8.93,5668.8,50.6219
+G3b,Electrify compression at stations and plants,G3,Haynesville-Bossier,68.303,5743.5,392.2998
+T3b,Electric-drive compression at T&S stations,T3,Haynesville-Bossier,7.556,5743.5,43.3961
+G3b,Electrify compression at stations and plants,G3,Eagle Ford / Gulf Coast,61.352,5743.5,352.377
+T3b,Electric-drive compression at T&S stations,T3,Eagle Ford / Gulf Coast,15.959,5743.5,91.6597
+T4b,Continuous monitoring on remaining T&S leaks,T4,San Juan,0.135,5771.5,0.7818
+W4b,Control remaining tanks and associated gas,W4,Eagle Ford / Gulf Coast,3.108,5905.9,18.3566
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Anadarko,3.149,6033.0,18.9979
+W4b,Control remaining tanks and associated gas,W4,Bakken (Williston),1.238,6233.3,7.7188
+W4b,Control remaining tanks and associated gas,W4,Onshore areas without GHGRP reporters,6.097,6275.6,38.2593
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,Alaska + federal offshore,1.52,6292.5,9.5667
+G3b,Electrify compression at stations and plants,G3,Permian,251.399,6404.0,1609.955
+T3b,Electric-drive compression at T&S stations,T3,Permian,13.969,6404.0,89.4551
+G3b,Electrify compression at stations and plants,G3,Denver-Julesburg,26.588,6465.1,171.8939
+T3b,Electric-drive compression at T&S stations,T3,Denver-Julesburg,3.318,6465.1,21.449
+G3b,Electrify compression at stations and plants,G3,Greater Green River,15.885,6465.1,102.6988
+T3b,Electric-drive compression at T&S stations,T3,Greater Green River,3.439,6465.1,22.2345
+G3b,Electrify compression at stations and plants,G3,Piceance,16.4,6465.1,106.0255
+T3b,Electric-drive compression at T&S stations,T3,Piceance,1.154,6465.1,7.4628
+G3b,Electrify compression at stations and plants,G3,Uinta,10.591,6465.1,68.4698
+T3b,Electric-drive compression at T&S stations,T3,Uinta,1.094,6465.1,7.0704
+G3b,Electrify compression at stations and plants,G3,San Juan,6.409,6465.1,41.4351
+T3b,Electric-drive compression at T&S stations,T3,San Juan,0.427,6465.1,2.7618
+G3b,Electrify compression at stations and plants,G3,Powder River,3.622,6465.1,23.4153
+T3b,Electric-drive compression at T&S stations,T3,Powder River,0.218,6465.1,1.4092
+L1c,Plug remaining low-producing sites,L1,Alaska + federal offshore,13.103,6488.2,85.0114
+G3b,Electrify compression at stations and plants,G3,Onshore areas without GHGRP reporters,43.004,6621.3,284.7461
+G3b,Electrify compression at stations and plants,G3,Anadarko,38.582,6628.1,255.7265
+T3b,Electric-drive compression at T&S stations,T3,Anadarko,5.001,6628.1,33.1493
+G3b,Electrify compression at stations and plants,G3,Barnett (Fort Worth),10.232,6628.1,67.8177
+T3b,Electric-drive compression at T&S stations,T3,Barnett (Fort Worth),0.277,6628.1,1.8383
+G3b,Electrify compression at stations and plants,G3,Arkoma-Fayetteville,8.283,6628.1,54.8973
+T3b,Electric-drive compression at T&S stations,T3,Arkoma-Fayetteville,3.626,6628.1,24.0309
+G3b,Electrify compression at stations and plants,G3,Other basins with GHGRP reporters,84.661,6628.1,561.1425
+T3b,Electric-drive compression at T&S stations,T3,Other basins with GHGRP reporters,7.442,6628.1,49.3236
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Anadarko,5.937,6728.2,39.9421
+G3b,Electrify compression at stations and plants,G3,San Joaquin,5.287,6772.4,35.8057
+T3b,Electric-drive compression at T&S stations,T3,San Joaquin,0.285,6772.4,1.9296
+W4b,Control remaining tanks and associated gas,W4,Barnett (Fort Worth),1.335,6964.7,9.2964
+W3b,Monthly OGI or continuous monitoring on remaining leaks,W3,San Juan,0.661,6971.5,4.6094
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,Alaska + federal offshore,2.541,7019.8,17.836
+W4b,Control remaining tanks and associated gas,W4,Other basins with GHGRP reporters,6.481,7268.6,47.1063
+G4b,Monthly/continuous LDAR on remaining station leaks,G4,San Juan,1.19,7771.5,9.2458
+G3b,Electrify compression at stations and plants,G3,Appalachian,62.516,8808.2,550.6529
+T3b,Electric-drive compression at T&S stations,T3,Appalachian,34.708,8808.2,305.7138
+W4b,Control remaining tanks and associated gas,W4,Anadarko,3.336,9004.7,30.0362
+W4b,Control remaining tanks and associated gas,W4,Alaska + federal offshore,1.61,9407.2,15.1496
+W4b,Control remaining tanks and associated gas,W4,San Juan,0.7,10382.8,7.2717
+L1c,Plug remaining low-producing sites,L1,Greater Green River,18.559,11982.0,222.372
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Bakken (Williston),2.526,12092.6,30.5412
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Alaska + federal offshore,3.285,12625.7,41.4695
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Haynesville-Bossier,10.983,12700.4,139.4827
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Eagle Ford / Gulf Coast,6.339,12700.4,80.5115
+L1c,Plug remaining low-producing sites,L1,Permian,217.026,13046.0,2831.3286
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Permian,51.823,13360.9,692.4019
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Denver-Julesburg,4.037,13422.0,54.1841
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Greater Green River,4.187,13422.0,56.197
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Piceance,3.3,13422.0,44.2956
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Uinta,3.024,13422.0,40.5862
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,San Juan,1.428,13422.0,19.1723
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Powder River,1.056,13422.0,14.1679
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Onshore areas without GHGRP reporters,12.434,13578.2,168.8356
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Anadarko,6.803,13585.0,92.4212
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Barnett (Fort Worth),2.722,13585.0,36.9836
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Arkoma-Fayetteville,2.031,13585.0,27.5919
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Other basins with GHGRP reporters,13.218,13585.0,179.5664
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,San Joaquin,1.865,13729.4,25.6016
+L1c,Plug remaining low-producing sites,L1,Barnett (Fort Worth),16.106,15160.7,244.1708
+W6b,Electrify well-site engines/heaters or replace with low-slip units,W6,Appalachian,14.729,15765.2,232.2115
+L1c,Plug remaining low-producing sites,L1,Uinta,12.556,16345.4,205.2266
+L1c,Plug remaining low-producing sites,L1,Haynesville-Bossier,50.56,18151.0,917.712
+L1c,Plug remaining low-producing sites,L1,Piceance,14.341,18404.5,263.9471
+L1c,Plug remaining low-producing sites,L1,Denver-Julesburg,14.082,23432.8,329.9876
+L1c,Plug remaining low-producing sites,L1,Appalachian,145.451,24857.3,3615.51
+L1c,Plug remaining low-producing sites,L1,Other basins with GHGRP reporters,60.391,25772.8,1556.4433
+L1c,Plug remaining low-producing sites,L1,Eagle Ford / Gulf Coast,36.076,30542.4,1101.8378
+L1c,Plug remaining low-producing sites,L1,Arkoma-Fayetteville,9.874,31279.8,308.8511
+L1c,Plug remaining low-producing sites,L1,Onshore areas without GHGRP reporters,50.462,36175.7,1825.509
+L1c,Plug remaining low-producing sites,L1,Anadarko,31.105,38315.2,1191.7889
+L1c,Plug remaining low-producing sites,L1,Bakken (Williston),11.079,39873.5,441.7732
+L1c,Plug remaining low-producing sites,L1,Powder River,4.372,43435.8,189.9066
+L1c,Plug remaining low-producing sites,L1,San Juan,6.113,68670.5,419.7597
+L1c,Plug remaining low-producing sites,L1,San Joaquin,8.002,84924.8,679.5905

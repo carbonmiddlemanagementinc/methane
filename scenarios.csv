@@ -1,0 +1,20 @@
+scenario,net_cost_musd_per_yr,marginal_cost_usd_per_t,baseline_rate_2035,target_reachable
+"Central: 7%, AEO2026 2035 prices, gas value counted everywhere",2712.5,1382.8,0.01551,True
+3% discount rate,2189.9,1040.5,0.01551,True
+Midstream keeps no gas value (ICF/ONE Future convention),3519.1,1418.0,0.01551,True
+Low gas prices: AEO2026 2025 regional prices held,3247.5,1418.0,0.01551,True
+"Fewer findable large emitters (35% share, Cusworth/Williams)",3201.3,2150.3,0.01551,True
+More findable large emitters (Sherwin aerial shares),2288.3,980.3,0.01551,True
+No emission-density adjustment to inventory-based costs,2838.8,1291.2,0.01551,True
+All measure effectiveness 25% lower,13317.2,11112.2,0.01551,True
+All costs +50%,4809.6,2127.0,0.01551,True
+No well plugging allowed,6227.8,6465.1,0.01551,True
+Measured baseline 20% lower,1861.2,1050.5,0.01241,True
+Measured baseline 20% higher,4675.0,5743.5,0.01861,True
+Target 1.0% instead of 0.5%,209.3,187.0,0.01551,True
+Target 0.2% (OGCI near-zero level),,,0.01551,False
+"Plugging gives up $5,950 a year per site (EPA gas wells, 15 BOE/d or less)",3120.4,1716.5,0.01551,True
+"MethaneSAT full observation-domain rates for Permian and Eagle Ford (2.6%, 2.4%)",2842.5,1501.9,0.01595,True
+Unmeasured areas follow AEO conventional gas (x0.44 to 2035),2223.5,1291.2,0.01471,True
+Unmeasured areas follow AEO Lower 48 onshore (x1.15 to 2035),2777.4,1291.2,0.01565,True
+Five Rockies rows at the Rocky Mountain region rate (x0.66) instead of x0.43,2851.4,1418.0,0.01592,True
