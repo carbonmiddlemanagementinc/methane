@@ -1,14 +1,15 @@
-# Data QA/QC: cost of a 0.5% methane leakage rate
+# Data QA/QC: Methane abatement database
 
-Review dates: November 13, 2026 (passes 1 to 4) and November 17, 2026 (pass 5). Five passes:
+Review dates: November 13, 2026 (passes 1 to 4) and November 17, 2026 (passes 5 and 6). Six passes:
 
 - **Pass 1.** A self-review by the model's builder.
 - **Pass 2.** An independent review by a separate reviewer who did not build the model. The reviewer re-derived inputs from the primary sources, read the code and workbook formulas, and traced every published number.
 - **Pass 3.** A second independent review by a reviewer who had not built the model or done the earlier passes. It re-ran the whole pipeline, re-checked every pass-2 fix against its source, and tested the judgment calls.
 - **Pass 4.** Verification of every item the first three passes listed as not verified, against primary sources and raw data.
 - **Pass 5.** An independent review of the international data, the world-map views and the companion data Sheet, added after the cost model was settled. The US cost model is unchanged.
+- **Pass 6.** Five independent reviewers covered the whole page, including the EU import rules tab added after pass 5, the companion Sheet and the public package. The US cost model re-ran with zero differences. Full report: `qa_pass6_2026-11-17.md`.
 
-In passes 2 to 5 the builder checked each finding against the source before changing anything. This document supersedes the earlier versions.
+In passes 2 to 6 the builder checked each finding against the source before changing anything. This document supersedes the earlier versions.
 
 ## Bottom line
 
@@ -110,6 +111,26 @@ Each fix was applied on top of the one before it. The last row of each table rep
 | After pass 3 | 12,836 | 1.551% | 2,929 | 1,568 | 10,505 |
 | V1: site counts from Omara et al. 2022 (1.2 wells per site, 81% low-producing, 1.03 wells per plugged site) | 12,836 | 1.551% | 2,732 | 1,383 | 10,245 |
 | V2: well-site shares recomputed from GHGI 2023, gas-well produced water added | 12,836 | 1.551% | 2,712 | 1,383 | 10,182 |
+
+## Pass 6: whole page (November 17, 2026)
+
+Five independent reviewers each took one area: the EU tab's inputs and maths; its fee, reach, coal and crude-by-field models; the Global Methane Map; the US model and tabs; and the Sheet, package and rendering. The full report is `qa_pass6_2026-11-17.md`.
+
+- **US cost model unchanged.** It re-ran with zero differences, and all US headlines stand. Two disclosures were added: the WEC exemption's second statutory condition, and the fact that basin counts of low-producing sites use a national share. A dozen wording and display fixes were also made.
+- **EU tab: one input error, corrected.**
+  - Guyana's 13.0 Mt of crude was missing from the Eurostat download, and 11.8 Mt of crude with no named origin had been dropped.
+  - After the fix, EU imports are 29.7 EJ (was 28.6), with 5.3 Mt of methane (was 5.2).
+  - The EU, Japan and South Korea figure is 7.4 Mt, or 9.2% (was 7.3 Mt, 9.0%).
+  - The 0.2% benchmark is now 38 g/GJ, the share-of-gas basis actually discussed (was 36 g/GJ).
+  - Partial-year crude volumes are labelled, and the Basrah basin match is qualified.
+  - Titles and caveats on the crude, coal and fee panels are made two-sided.
+- **Global Methane Map.** All pass-5 fixes were confirmed. Fixes in this pass:
+  - Source labels for five Gulf countries (Chen et al. 2023).
+  - A "reply not tracked" alert status.
+  - Median rather than mean leak rates.
+  - EMIT detections disclosed.
+  - Further legend, label and licence fixes.
+- **Sheet (revision 97) and package.** The EU tabs were updated. Data issues gained four entries (59–62) and eight corrected rows. Local paths were removed from the public record, and the licences and screenshots were completed.
 
 ## Pass 5: international data and world map (November 17, 2026)
 

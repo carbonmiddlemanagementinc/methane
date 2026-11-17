@@ -1,6 +1,6 @@
 # Methane abatement database
 
-A meta-analysis of the available data for methane leaks from both oil, gas and coal supply chains, and abatement costs for different geographies. It includes an interactive analysis of what it would cost to bring methane leakage from the US oil and gas supply chain (wellhead to city gate) down to 0.5% by 2035, and which policies would get there.
+A compilation of the available data on methane emissions from oil, gas and coal supply chains, with abatement costs for oil and gas in different geographies. It includes an interactive analysis of what it would cost to bring methane leakage from the US oil and gas supply chain (wellhead to city gate) down to 0.5% by 2035, and which policies would get there.
 
 Prepared by the Carbon Management and the Transition Program, Center on Global Energy Policy (CGEP), Columbia University.
 
@@ -19,6 +19,7 @@ Prepared by the Carbon Management and the Transition Program, Center on Global E
 | Tab | Contents |
 |---|---|
 | Global Methane Map | Oil and gas methane in 34 basins in 21 countries measured by MethaneSAT (2024–25): leak rates and measured vs. inventory; country estimates from satellites (2023 and 2019) vs. what countries report to the UN; large leaks seen since 2024; UN leak alerts (UNEP MARS sites, whether each was reported to the government or operator and whether anyone replied); coal mines from UNEP's coal methane database (mostly steel-making coal) with coal alert sites; GHGSat's 2023 site emissions on a 1° grid; IEA 2025 country estimates as an option in the country view; a close-up of each basin with its measured area, Carbon Mapper large-leak sites colored by how often they leak, days imaged, oil and gas fields and 2023 gas flares |
+| EU import rules | The EU Methane Regulation's import requirements and their status; methane per GJ of oil and gas for the EU's 33 named oil and gas suppliers by four estimates (IEA 2025 whole chain and upstream, satellite 2023, countries' UN reports) against a limit you set; the EU's largest crude streams by field (Eurostat) beside MethaneSAT measurements of the basins they come from, where one exists; EU coal suppliers with UNEP mine intensities; how much of the world's oil and gas methane is tied to sales to the EU, Japan, South Korea, China and India; and the cut from a fee charged by those importers compared with the same fee charged by every producing country (IEA abatement costs) |
 | United States | Measured leak rates by basin today, measured vs. EPA inventory, cost to reach 0.5% by basin, policy scenarios, low-producing wells, clean-gas supply; interstate pipelines with EPA-reported compressor stations, storage and LNG; an optional coal layer (underground mines reporting methane to EPA, 2023, with satellite coal plume sites); close-ups of large-leak sites in nine basins, colored by how often they leak or by nearest infrastructure |
 | Cost of reaching 0.5% in the US | US oil and gas value chain only (coal mine methane is not included). Least-cost abatement curve across 25 measures, 14 source categories and 19 basins; target slider; sensitivities and Monte Carlo range |
 | Fees and rules | US oil and gas value chain only (coal mine methane is not included). EPA's OOOOb/c rules, the Waste Emissions Charge as written and alternatives, and combinations |
@@ -31,6 +32,10 @@ Prepared by the Carbon Management and the Transition Program, Center on Global E
 ![Coal mines](docs/world_coal.png)
 
 ![GHGSat 2023](docs/world_ghgsat.png)
+
+![EU import rules](docs/eu.png)
+
+![EU crude by field and MethaneSAT basins](docs/eu_crude_fields.png)
 
 ![United States](docs/map.png)
 
@@ -63,6 +68,7 @@ Open `index.html` in any browser. Everything, including the basin close-ups and 
 | `data/basins.csv` | 2035 baseline, leak rate, and cuts on the cheapest path and under the WEC, by basin |
 | `data/policies.csv` | Rules, fees and combinations |
 | `data/scenarios.csv` | Sensitivities |
+| `data/rule_shares.csv` | Share of each measure required by EPA's 2024 rules and by the October 2026 proposal |
 | `data/large_leak_sites.csv` | Large-leak sites in nine basins, 2024–26 (Carbon Mapper data; see licensing) |
 | `docs/` | Screenshots used in this README |
 
@@ -75,7 +81,7 @@ Open `index.html` in any browser. Everything, including the basin close-ups and 
 - **Infrastructure matching.** Each large-leak site is matched to the nearest mapped infrastructure: a compressor station or plant within 200 m, else a well or tank battery within 100 m, else a pipeline within 50 m. The same sites moved 1–2 km in a random direction give the share expected by chance. OGIM maps gathering lines almost only in Texas.
 - **Stations.** Transmission compressor stations, storage fields and LNG terminals are sized by methane reported to EPA for 2023. No measured leak rate exists for individual pipelines.
 
-Full assumptions, benchmark comparisons and limitations are on the page's Assumptions and data tab. Three QA/QC passes (November 13, 2026), the second and third independent reviews, checked inputs against their sources and every calculation, a fourth pass verified the items the reviews could not, and a fifth independent review (November 17, 2026) checked the international data and every world-map view (`docs/qa_pass5_2026-11-17.md`); `docs/QA_QC.md` lists what was verified, what was corrected, what rests on judgment and what could not be checked.
+Full assumptions, benchmark comparisons and limitations are on the page's Assumptions and data tab. Three QA/QC passes (November 13, 2026), the second and third independent reviews, checked inputs against their sources and every calculation, a fourth pass verified the items the reviews could not, a fifth independent review (November 17, 2026) checked the international data and every world-map view (`docs/qa_pass5_2026-11-17.md`), and a sixth pass the same day, by five independent reviewers, covered the whole page including the EU import rules tab, which was added after pass 5 (`docs/qa_pass6_2026-11-17.md`); `docs/QA_QC.md` lists what was verified, what was corrected, what rests on judgment and what could not be checked.
 
 ## Sources
 
@@ -83,13 +89,14 @@ Full assumptions, benchmark comparisons and limitations are on the page's Assump
 - **Inventory:** EPA Greenhouse Gas Inventory 2023; GHGRP subpart W
 - **Production and prices:** EIA Annual Energy Outlook 2026 (Counterfactual Baseline); EIA Short-Term Energy Outlook (November 2026) and Natural Gas Annual/Monthly state gross withdrawals for 2023 to 2025
 - **Large-leak sites and imaging coverage:** Carbon Mapper, Inc.
-- **International basins:** Omara et al. 2026, Research Square preprint, Supplementary Data 1 (MethaneSAT regions); East et al. 2025, Nature Communications 16, 11004 and Shen et al. 2023, Nature Communications 14, 4948 (country estimates); Carbon Mapper plumes, sites and imaging; EDF OGIM v2.7 fields and flares; UNEP IMEO MARS sources, monthly top-50 lists and October 2026 snapshot (CC BY-NC-SA 4.0); UNEP IMEO Coal Methane Database (CC BY 4.0); OGMP 2.0 company file; IEA Global Methane Tracker 2026 and Methane Tracker data (CC BY 4.0); GHGSat 2023, Jervis et al. 2025 (CC0); Natural Earth borders
+- **International basins:** Omara et al. 2026, Research Square preprint, Supplementary Data 1 (MethaneSAT regions); East et al. 2025, Nature Communications 16, 11004, Shen et al. 2023, Nature Communications 14, 4948 and Chen et al. 2023, Atmospheric Chemistry and Physics 23, 5945 (country estimates); Carbon Mapper plumes, sites and imaging; EDF OGIM v2.7 fields and flares; UNEP IMEO MARS sources, monthly top-50 lists and October 2026 snapshot (CC BY-NC-SA 4.0); UNEP IMEO Coal Methane Database (CC BY 4.0); OGMP 2.0 company file; IEA Global Methane Tracker 2026 and Methane Tracker data (CC BY 4.0); GHGSat 2023, Jervis et al. 2025 (CC0); Natural Earth borders
 - **Well, station and pipeline locations:** EDF / MethaneSAT LLC, Oil and Gas Infrastructure Mapping (OGIM) database v2.7
 - **Transmission compressor stations, storage and LNG facilities:** EPA Greenhouse Gas Reporting Program, subpart W, reporting year 2023 (Envirofacts)
 - **Gathering-line emission factor:** Yu et al. 2022, Environmental Science & Technology Letters
 - **Pipelines:** EIA natural gas interstate pipelines, via DOT National Transportation Atlas Database
 - **Costs:** EPA regulatory impact analyses for OOOOb/c (2024) and the Waste Emissions Charge (2024); ICF for EDF (2014); ICF for ONE Future (2016)
 - **Policy status:** CRS R48906 (April 2026); Holland & Knight on EPA's October 29, 2026 proposal
+- **EU import rules:** Regulation (EU) 2024/1787 and COM(2026) 569; Eurostat nrg_ti_oil, nrg_ti_gas, nrg_ti_sff and nrg_ti_coifpm (2024); UN Comtrade (2024); Energy Institute Statistical Review of World Energy 2026; IEA Global Methane Tracker 2026 data files (emissions and abatement costs); East et al. 2025; Omara et al. 2026 (basin intensities); UNEP IMEO Coal Methane Database; Öko-Institut; EDF; CATF and Carbon Limits; S&P Global
 - **Base maps:** US Census Bureau boundaries via us-atlas
 
 ## Licensing

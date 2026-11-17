@@ -1,0 +1,26 @@
+measure_id,category,measure,share_forced_2024_rules,share_forced_oct2026_proposal
+W1a,W1,Aerial survey every 2 months + repair (well sites),0.4,0.15
+W1b,W1,Continuous monitors at central facilities (25% of sites),0,0
+W2a,W2,Zero-emitting pneumatic controllers and pumps,0.95,0.95
+W3a,W3,Quarterly OGI leak detection and repair,0.85,0.85
+W3b,W3,Monthly OGI or continuous monitoring on remaining leaks,0,0
+W4a,W4,"Tank vapor recovery, vent-to-flare, flare auto-igniters",0.9,0.9
+W4b,W4,Control remaining tanks and associated gas,0.5,0.5
+W5a,W5,"Plunger lifts, unloading automation, blowdown/completion controls",1.0,1.0
+W6a,W6,"Engine and heater tuning, slip monitoring",0,0
+W6b,W6,Electrify well-site engines/heaters or replace with low-slip units,0,0
+L1a,L1,Quarterly aerial survey + repair at low-producing sites,0.4,0.2
+L1b,L1,Plug highest-emitting low-producing sites,0,0
+L1c,L1,Plug remaining low-producing sites,0,0
+M1a,M1,"Monthly aerial survey + repair at stations, plants, pipelines",0.4,0.1
+M1b,M1,Continuous monitoring at compressor stations and plants,0,0
+G2a,G2,"Rod packing/vent capture, dry seals, blowdown reduction (G&B, processing)",0.8,0.8
+G3a,G3,"Engine tuning and slip monitoring (G&B, processing)",0,0
+G3b,G3,Electrify compression at stations and plants,0,0
+G4a,G4,"Quarterly LDAR, zero-emitting pneumatics, tank/dehy controls at stations",1.0,1.0
+G4b,G4,Monthly/continuous LDAR on remaining station leaks,0,0
+T2a,T2,"Rod packing/vent capture, dry seals, pump-down and blowdown redesign (T&S)",0.8,0.8
+T3a,T3,Engine tuning and slip monitoring (T&S),0,0
+T3b,T3,Electric-drive compression at T&S stations,0,0
+T4a,T4,"Station LDAR, zero-emitting pneumatics, M&R leak repair (T&S)",1.0,0.8
+T4b,T4,Continuous monitoring on remaining T&S leaks,0,0
